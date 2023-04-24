@@ -60,11 +60,11 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-<br></br>
+<!-- <br></br>
 <hr></hr>
-<br></br>
+<br></br> -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rramboer&theme=highcontrast&langs_count=10&border_radius=20&title_color=2f80ed&card_width=600)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rramboer&theme=highcontrast&langs_count=10&border_radius=20&title_color=2f80ed&card_width=600) -->
 
 <!--
 
