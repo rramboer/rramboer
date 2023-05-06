@@ -64,7 +64,7 @@
 <hr></hr>
 <br></br> -->
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rramboer&theme=highcontrast&langs_count=10&border_radius=20&title_color=2f80ed&card_width=600) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rramboer&theme=highcontrast&langs_count=10&border_radius=20&title_color=2f80ed&card_width=600)
 
 <!--
 
