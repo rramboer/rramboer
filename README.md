@@ -33,12 +33,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Perforce](https://img.shields.io/badge/-PERFORCE-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+<!--
 <br></br>
 <hr></hr>
 <br></br>
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rramboer&theme=highcontrast&langs_count=10&border_radius=20&title_color=2f80ed&card_width=600)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rramboer&theme=highcontrast&langs_count=10&border_radius=20&title_color=2f80ed&card_width=600)
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rramboer&theme=midnight-purple&show_icons=true)
 
